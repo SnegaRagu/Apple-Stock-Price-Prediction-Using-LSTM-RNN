@@ -89,9 +89,9 @@ Project focuses on predicting the future stock price of Apple (AAPL) using deep 
 | SimpleRNN | OHLCV + Extra Features            | 1-Day  | 64.7 |
 | SimpleRNN | OHLCV + Extra Features            | 5-Day  | 132.3 |
 | SimpleRNN | OHLCV + Extra Features            | 10-Day | 159.6 |
-| LSTM      | OHLCV + Extra Features            | 1-Day  | 403.7 |
-| LSTM      | OHLCV + Extra Features            | 5-Day  | 464.1 |
-| LSTM      | OHLCV + Extra Features            | 10-Day | 576.3 |
+| LSTM      | OHLCV + Extra Features            | 1-Day  | 150.4 |
+| LSTM      | OHLCV + Extra Features            | 5-Day  | 208.2 |
+| LSTM      | OHLCV + Extra Features            | 10-Day | 264.2 |
 | GRU       | OHLCV + Extra Features            | 1-Day  | 165.5 |
 | GRU       | OHLCV + Extra Features            | 5-Day  | 150.9 |
 | GRU       | OHLCV + Extra Features            | 10-Day | 328.2 |
